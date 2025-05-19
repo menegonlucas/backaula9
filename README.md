@@ -4,11 +4,12 @@ Sistema simples de autenticação com **JWT**, rotas protegidas e estrutura clar
 
 
 ## Atividade solicitada
-[]Testar backend com insomnia.
-[x]Estudar e documentar estrutura do projeto.
-[x]Detalhar e documentar bibliotecas utilizadas.
-[x]Documentar descrição do funcionamento.
-[x]Desenhar fluxo de informação (diagrama de atividades).
+
+- [ ] Testar backend com Insomnia.
+- [x] Estudar e documentar estrutura do projeto.
+- [x] Detalhar e documentar bibliotecas utilizadas.
+- [x] Documentar descrição do funcionamento.
+- [x] Desenhar fluxo de informação (diagrama de atividades).
 ---
 
 ## 🚀 Atividades Desenvolvidas
