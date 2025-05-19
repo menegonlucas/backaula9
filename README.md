@@ -2,6 +2,13 @@
 
 Sistema simples de autenticação com **JWT**, rotas protegidas e estrutura clara para testes via ferramentas como **Insomnia** ou **Postman**.
 
+
+## Atividade solicitada
+[]Testar backend com insomnia.
+[x]Estudar e documentar estrutura do projeto.
+[x]Detalhar e documentar bibliotecas utilizadas.
+[x]Documentar descrição do funcionamento.
+[x]Desenhar fluxo de informação (diagrama de atividades).
 ---
 
 ## 🚀 Atividades Desenvolvidas
@@ -59,3 +66,4 @@ api/
 
 ### 🔒 2. Acesso a Rota Protegida
 
+![alt text](diagrama.png)
