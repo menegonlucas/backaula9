@@ -68,3 +68,6 @@ api/
 ### 🔒 2. Acesso a Rota Protegida
 
 ![alt text](diagrama.png)
+
+### Testes
+![alt text](image-1.png)
